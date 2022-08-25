@@ -2,6 +2,8 @@
 
     Documentation solution for frontend developers.
 
+> Note: `access Lost to the original github account [Sepstacks](https://https://github.com/SepStacks)`. This will be the new repo going forward
+
 ## Motivation
 
 While I was working on my documentation site in 2019 I realised that documenting components are very time consuming and not all of my collegues would be able to
