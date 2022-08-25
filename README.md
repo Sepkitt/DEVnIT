@@ -2,7 +2,7 @@
 
     Documentation solution for frontend developers.
 
-> Note: `access Lost to the original github account [Sepstacks](https://https://github.com/SepStacks)`. This will be the new repo going forward
+> Note: access Lost to the original github account [Sepstacks](https://https://github.com/SepStacks). This will be the new repo going forward
 
 ## Motivation
 
